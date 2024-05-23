@@ -1,0 +1,104 @@
+body {
+    background-color: pink;
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-family:  "Pacifico", cursive;
+}
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Pacifico", cursive;
+}
+h2{
+    
+        color: #66bfbf;
+        font-family: "Pacifico", cursive;
+        font-size: 2.5rem;
+        font-weight: normal;
+        padding-bottom: 10px;
+    
+}
+.Web{
+    text-decoration: underline;
+}
+.title-text h2{
+    color:black;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.middle-container {
+    margin: 100px 0;
+    
+}
+.middle{
+    /* background-color: white; */
+}
+.portfolio img{
+    height: 200px;
+    border-radius: 50%;
+    padding-top:20px;
+}
+intro {
+        width: 30%;
+        margin: auto;
+    }
+.portfolio h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+}
+p {
+    color: black;
+    line-height: 2;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skills h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent img {
+    height: 200px;
+    margin: 20px;
+}
+.html-img{
+    margin:20px;
+}
+.css-img{
+    margin:20px;
+    width: 200px;
+}
+.bootstrap-img{
+    margin:20px;
+}
+.bottom-container {
+    padding: 50px 0 20px;
+    margin: 10px;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+.copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.contact-me h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding-bottom: 0px;
+}
+button{
+    background-color: #11cdd4;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
